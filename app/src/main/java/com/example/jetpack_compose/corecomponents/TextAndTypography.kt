@@ -63,7 +63,7 @@ fun ColorFullText() {
 }
 
 @Composable
-fun ScrollableText(){
+fun ScrollableText() {
     Box(
         modifier = Modifier.fillMaxSize(),
         contentAlignment = Alignment.Center
